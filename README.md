@@ -35,13 +35,9 @@
 &nbsp;
 <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="width:35px;height:35px;"></a>
 &nbsp;
-
 <a href="https://www.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Android" style="width:35px;height:35px;"></a>
-&nbsp;
-<a href="https://www.apple.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" style="width:35px;height:35px;"></a>
 &nbsp;
 <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="width:35px;height:35px;"></a>
 &nbsp;
-<a href="https://www.jetbrains.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" style="width:35px;height:35px;"></a>
 &nbsp;
 
