@@ -33,6 +33,8 @@
 &nbsp;
 <a href="https://www.latex-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" style="width:35px;height:35px;"></a>
 &nbsp;
+<a href="https://www.latex-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width:35px;height:35px;"></a>
+&nbsp;
 <a href="https://www.markdownguide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" style="width:35px;height:35px;"></a>
 &nbsp;
 <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="width:35px;height:35px;"></a>
