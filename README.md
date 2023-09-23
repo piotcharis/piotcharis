@@ -11,7 +11,7 @@
 
 📫 How to reach me: piotcharis@gmail.com - I am looking forward to hearing ideas, suggestions and to help make them a reality and the world a better place one line at a time!
 
-### </> Languages and Tools:
+### <> Languages and Tools </>
 
 <a href="https://www.java.com/en/"><img src="https://user-images.githubusercontent.com/79626497/189351129-c95e19fc-68c8-480c-8b9b-76091299ed45.png" alt="Java" style="width:30px;height:35px;"></a>
 &nbsp;
