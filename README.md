@@ -5,8 +5,6 @@
 
 🔭 I am always trying to evolve and learn new things by working hard and seeking new challenges.
 
-🌱 I'm currently learning Spring Boot, React.js and SQL as well as always improving my knowledge of other languages and frameworks.
-
 💻 I am passionate about Technology, Science, Medicine and Space
 
 🌐 Find out more [here](https://charalampos-piotopoulos.com/)
