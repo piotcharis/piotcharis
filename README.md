@@ -1,5 +1,5 @@
   ## Hi there 👋, I am Charis!
-  ### Software Engineer - Programmer - Student
+  ### Software Engineer - Computer Scientist - Student
 
 🎓 I am a Computer Science student @ the Technical University of Munich. 
 
