@@ -40,13 +40,9 @@
 &nbsp;
 <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="width:35px;height:35px;"></a>
 &nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:35px;height:35px;"></a>
-&nbsp;
 <a href="https://gradle.org/"><img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" style="width:35px;height:35px;"></a>
 &nbsp;
 <a href="https://www.latex-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" style="width:35px;height:35px;"></a>
-&nbsp;
-<a href="https://www.postman.com/"><img src="/icons/postman-icon.svg" alt="Postman" style="width:35px;height:35px;"></a>
 &nbsp;
 <a href="https://api.badgr.io/public/assertions/qXe_zpw9TxWoI-mZI9qXsw"><img src="/icons/postman-cert.png" alt="Postman Certification" style="width:35px;height:35px;"></a>
 &nbsp;
