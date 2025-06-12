@@ -17,6 +17,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piotcharis&theme=dark&hide_border=false" alt="GitHub Streak"><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotcharis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=piotcharis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
