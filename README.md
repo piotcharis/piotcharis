@@ -2,7 +2,7 @@
 ### Software Engineer - Computer Scientist - Student
 
 # 💫 About Me:
-🎓 I am a Computer Science student @ the Technical University of Munich.<br><br>🔭 I am always trying to evolve and learn new things by working hard and seeking new challenges.<br><br>💻 I am passionate about Technology, Science, Medicine and Space<br><br>🌐 Find out more [here](https://charalampos-piotopoulos.com/)<br><br>📫 How to reach me: piotcharis@gmail.com - I am looking forward to hearing ideas, suggestions and to help make them a reality and the world a better place one line at a time!
+🎓 I am a Computer Science student @ the Technical University of Munich.<br><br>🔭 I am always trying to evolve and learn new things by working hard and seeking new challenges.<br><br>💻 I am passionate about Technology, Science, Cars, Medicine and Space<br><br>🌐 Find out more [here](https://charalampos-piotopoulos.com/)<br><br>📫 How to reach me: piotcharis@gmail.com - I am looking forward to hearing ideas, suggestions and to help make them a reality and the world a better place one line at a time!
 
 
 ## 🌐 Socials:
